@@ -1,0 +1,21 @@
+.myTheme,body{
+    /* background-color: #131520 ; */
+    background: linear-gradient(to right, hsl(250, 97%, 14%),
+                                          hsl(250, 100%, 17%),
+                                          hsl(250, 98%, 21%),
+                                          hsl(250, 100%, 22%),
+                                          hsl(250, 95%, 27%),
+                                          hsl(250, 100%, 30%),
+                                          hsl(250, 100%, 31%),
+                                          hsl(250, 100%, 20%),
+                                          hsl(250, 100%, 16%) );
+    background: linear-gradient(to left, hsl(250, 97%, 14%),
+                                          hsl(250, 100%, 17%),
+                                          hsl(250, 98%, 21%),
+                                          hsl(250, 100%, 22%),
+                                          hsl(250, 95%, 26%),
+                                          hsl(250, 100%, 25%),
+                                          hsl(250, 100%, 26%),
+                                          hsl(250, 100%, 20%),
+                                          hsl(250, 100%, 16%) );
+}
